@@ -137,11 +137,5 @@ The core logic of the app is in `server.js`, where we:
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License. Feel free to use and modify it as needed.
-
----
-
 ### 🎉 You're all set! Happy coding! 🚀
 ```
